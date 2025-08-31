@@ -12,3 +12,4 @@ aver primera modificacion del git
 
 
 ```npm install react ```
+sistema  de registro 2
